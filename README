@@ -1,0 +1,11 @@
+[Dependencies]
+
+	libxml				install via yaourt -S libxml
+
+[How compile]
+gcc -o ppd main.c `xml2-config --libs`; ./ppd
+
+
+[Using]
+./ppd
+./ppd account.xml

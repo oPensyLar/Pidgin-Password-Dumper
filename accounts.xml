@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<account version='1.0'>
+	<account>
+		<protocol>prpl-msn</protocol>
+		<name>soydeanonymous@myhostparaddos.com</name>
+		<password>ytengounpassworddeelite</password>
+		<statuses>
+			<status type='available' name='Disponible' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Ausente' active='true'>
+				<attributes/>
+			</status>
+			<status type='brb' name='Vuelvo enseguida' active='false'>
+				<attributes/>
+			</status>
+			<status type='busy' name='Ocupado' active='false'>
+				<attributes/>
+			</status>
+			<status type='phone' name='Al teléfono' active='false'>
+				<attributes/>
+			</status>
+			<status type='lunch' name='Salí a comer' active='false'>
+				<attributes/>
+			</status>
+			<status type='invisible' name='Invisible' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Desconectado' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-msn</protocol>
+		<name>anonymousXSS@gmail.com</name>
+		<password>MeSudaSusXSS</password>
+		<statuses>
+			<status type='available' name='Disponible' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Ausente' active='true'>
+				<attributes/>
+			</status>
+			<status type='brb' name='Vuelvo enseguida' active='false'>
+				<attributes/>
+			</status>
+			<status type='busy' name='Ocupado' active='false'>
+				<attributes/>
+			</status>
+			<status type='phone' name='Al teléfono' active='false'>
+				<attributes/>
+			</status>
+			<status type='lunch' name='Salí a comer' active='false'>
+				<attributes/>
+			</status>
+			<status type='invisible' name='Invisible' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Desconectado' active='false'>
+				<attributes/>
+			</status>
+		</statuses>		
+		<settings>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>0</setting>
+		</settings>
+		<current_error/>
+	</account>
+
+	<account>
+		<protocol>prpl-jabber</protocol>
+		<name>unacuenta@unhost.com/</name>
+		<password>password123</password>
+		<statuses>
+			<status type='available' name='Disponible' active='false'>
+				<attributes/>
+			</status>
+			<status type='mood' name='Sintiendo' active='false'>
+				<attributes/>
+			</status>
+			<status type='freeforchat' name='Hablador' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Ausente' active='true'>
+				<attributes/>
+			</status>
+			<status type='extended_away' name='Ausencia extendida' active='false'>
+				<attributes/>
+			</status>
+			<status type='dnd' name='No molestar' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Desconectado' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+</account>
